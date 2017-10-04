@@ -1,0 +1,26 @@
+{
+  "name": "trigur/instagram_widget",
+  "description": "ImageCMS module",
+  "keywords": [
+    "ImageCMS",
+    "module",
+    "instagram"
+  ],
+  "homepage": "https://github.com/Trigur/instagram_widget",
+  "type": "imagecms-module",
+  "extra": {
+    "installer-name": "instagram_widget"
+  },
+  "require": {
+    "php": ">=5.5",
+    "ext-curl": "*",
+    "composer/installers": "^1.0"
+  },
+  "authors": [
+      {
+        "name": "Trigur",
+        "email": "trigur@yandex.ru",
+        "homepage": "https://github.com/Trigur"
+      }
+  ]
+}
